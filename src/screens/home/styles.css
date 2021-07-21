@@ -1,0 +1,13 @@
+.home-container{
+  height: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.home-container h2{
+  text-align: center;
+  text-transform: uppercase;
+  white-space: pre-line
+}

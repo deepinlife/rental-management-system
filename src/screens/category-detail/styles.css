@@ -1,0 +1,10 @@
+.sub-categories-container{
+  padding: 50px
+}
+
+
+@media screen and (max-width: 768px) {
+  .sub-categories-container {
+    padding: 10px;
+  }
+}
